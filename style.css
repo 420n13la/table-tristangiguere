@@ -1,0 +1,47 @@
+@charset "UTF-8";
+body{
+  justify-content:center;
+}
+  
+h1{
+  text-align:center;
+  color:#DE2245;
+  font-family: 'Fira Sans', sans-serif; 
+}
+
+table{
+  margin-left:auto;
+  margin-right:auto;
+  font-family: 'Lato', sans-serif;
+  font-size:14px;
+  border-collapse: collapse;
+  border-spacing: 1em;
+}
+
+td{
+  padding: 0.4rem 1rem;
+  border: 0.1em solid black;
+}
+
+.header{
+  text-align:center;
+  background-color:#038080;
+  color:white; 
+}
+
+.grey{
+  background-color:#dbdbdb;
+}
+
+.grade{
+  text-align:right;
+}
+
+.average{
+  text-align:right;
+  color:red;
+}
+
+.averages{
+  background-color:#FFD701;
+}
